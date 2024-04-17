@@ -1,0 +1,13 @@
+import React from 'react';
+
+function AboutPage() {
+  return (
+    <div>
+      <h1>About Me</h1>
+      <img src="/my-photo.jpg" alt="My Photo" />
+      <p>Hi, I'm [YANG XU]. I'm a [student] based in [korean]. Nice to meet you!</p>
+    </div>
+  );
+}
+
+export default AboutPage;
